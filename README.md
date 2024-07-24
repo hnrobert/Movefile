@@ -6,6 +6,9 @@
 
 _________
 
+Author： Robert He / He Siyuan
+
+
 ## English
 
 This is a program made for **organizing files**, including two main functions: [**Clean Desktop**](#clean-desktop) and [**Syncfile**](#syncfile).
